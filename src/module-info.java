@@ -2,8 +2,8 @@
  * 
  */
 /**
- * @author aluno
+ * @author lenovo
  *
  */
-module QuickSort {
+module AVI_Estrutura {
 }
